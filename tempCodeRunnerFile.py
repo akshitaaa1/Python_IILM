@@ -1,5 +1,3 @@
-s1={"C","Pyhton","Java","HTML","CSS"}
-print(s1)
 s2={"Akshita Gupta","20","Female"}
 print(s2)
 print(type(s2))
@@ -23,5 +21,3 @@ for i in n_set:
 s3={33,345,67,89,1000}
 print(min(s3))
 print(max(s3))
-
-
